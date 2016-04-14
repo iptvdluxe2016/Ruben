@@ -1,0 +1,225 @@
+#EXTM3U
+#EXTINF:-1,PT: RTP 1 SD/HD
+http://clientportal.link:8080/live/larry/larry/3208.ts
+#EXTINF:-1,PT: RTP 2
+http://clientportal.link:8080/live/larry/larry/3209.ts
+#EXTINF:-1,PT: RTP 3
+http://clientportal.link:8080/live/larry/larry/3213.ts
+#EXTINF:-1,PT: RTP Acores
+http://clientportal.link:8080/live/larry/larry/3210.ts
+#EXTINF:-1,PT: RTP Ãfrica
+http://clientportal.link:8080/live/larry/larry/5539.ts
+#EXTINF:-1,PT: RTP INTERNACIONAL
+http://clientportal.link:8080/live/larry/larry/9469.ts
+#EXTINF:-1,PT: RTP Madeira
+http://clientportal.link:8080/live/larry/larry/3211.ts
+#EXTINF:-1,PT: RTP Memoria
+http://clientportal.link:8080/live/larry/larry/3212.ts
+#EXTINF:-1,PT: SIC
+http://clientportal.link:8080/live/larry/larry/3227.ts
+#EXTINF:-1,PT: SIC CARAS
+http://clientportal.link:8080/live/larry/larry/9466.ts
+#EXTINF:-1,PT: SIC Kids
+http://clientportal.link:8080/live/larry/larry/3228.ts
+#EXTINF:-1,PT: SIC MULHER
+http://clientportal.link:8080/live/larry/larry/9467.ts
+#EXTINF:-1,PT: SIC Noticias
+http://clientportal.link:8080/live/larry/larry/3229.ts
+#EXTINF:-1,PT: SIC RADICAL
+http://clientportal.link:8080/live/larry/larry/9468.ts
+#EXTINF:-1,PT: TVI
+http://clientportal.link:8080/live/larry/larry/3214.ts
+#EXTINF:-1,PT: TVI 24
+http://clientportal.link:8080/live/larry/larry/5536.ts
+#EXTINF:-1,PT: Tvi ficcao
+http://clientportal.link:8080/live/larry/larry/5542.ts
+#EXTINF:-1,PT: TVI REALITY
+http://clientportal.link:8080/live/larry/larry/9464.ts
+#EXTINF:-1,PT: AMC
+http://clientportal.link:8080/live/larry/larry/9487.ts
+#EXTINF:-1,PT: CineMundo
+http://clientportal.link:8080/live/larry/larry/5544.ts
+#EXTINF:-1,PT: HollyWood SD/HD
+http://clientportal.link:8080/live/larry/larry/3307.ts
+#EXTINF:-1,PT: MOV HD
+http://clientportal.link:8080/live/larry/larry/3246.ts
+#EXTINF:-1,PT: TVCine 1 HD
+http://clientportal.link:8080/live/larry/larry/5545.ts
+#EXTINF:-1,PT: TVCine 2 HD
+http://clientportal.link:8080/live/larry/larry/5546.ts
+#EXTINF:-1,PT: TVCine 3 HD
+http://clientportal.link:8080/live/larry/larry/5547.ts
+#EXTINF:-1,PT: TVCine 4 HD
+http://clientportal.link:8080/live/larry/larry/5548.ts
+#EXTINF:-1,PT: TV Series SD/HD
+http://clientportal.link:8080/live/larry/larry/3304.ts
+#EXTINF:-1,PT: Fox HD
+http://clientportal.link:8080/live/larry/larry/3232.ts
+#EXTINF:-1,PT: FOX COMEDY
+http://clientportal.link:8080/live/larry/larry/9489.ts
+#EXTINF:-1,PT: FOX Crime HD
+http://clientportal.link:8080/live/larry/larry/5549.ts
+#EXTINF:-1,PT: Fox Life HD
+http://clientportal.link:8080/live/larry/larry/3233.ts
+#EXTINF:-1,PT: FOX Movies
+http://clientportal.link:8080/live/larry/larry/5550.ts
+#EXTINF:-1,PT: FX
+http://clientportal.link:8080/live/larry/larry/3231.ts
+#EXTINF:-1,PT: AXN HD
+http://clientportal.link:8080/live/larry/larry/3255.ts
+#EXTINF:-1,PT: AXN Black HD
+http://clientportal.link:8080/live/larry/larry/5551.ts
+#EXTINF:-1,PT: AXN WHITE HD
+http://clientportal.link:8080/live/larry/larry/3242.ts
+#EXTINF:-1,PT: Sy-Fy
+http://clientportal.link:8080/live/larry/larry/3226.ts
+#EXTINF:-1,PT: CMTV
+http://clientportal.link:8080/live/larry/larry/3236.ts
+#EXTINF:-1,PT: CBS Reality
+http://clientportal.link:8080/live/larry/larry/3215.ts
+#EXTINF:-1,PT: Caca & Pesca
+http://clientportal.link:8080/live/larry/larry/5543.ts
+#EXTINF:-1,PT: TV GALICIA
+http://clientportal.link:8080/live/larry/larry/9473.ts
+#EXTINF:-1,PT: TV Globo
+http://clientportal.link:8080/live/larry/larry/3216.ts
+#EXTINF:-1,PT: TV Globo Premium
+http://clientportal.link:8080/live/larry/larry/3217.ts
+#EXTINF:-1,PT: TV LISBOA
+http://clientportal.link:8080/live/larry/larry/9470.ts
+#EXTINF:-1,PT: E! Entertaunment
+http://clientportal.link:8080/live/larry/larry/3257.ts
+#EXTINF:-1,PT: TRAVEL CHANNEL HD
+http://clientportal.link:8080/live/larry/larry/9497.ts
+#EXTINF:-1,PT: TLC
+http://clientportal.link:8080/live/larry/larry/9496.ts
+#EXTINF:-1,PT: REDE TV
+http://clientportal.link:8080/live/larry/larry/9472.ts
+#EXTINF:-1,PT: Q CANAL
+http://clientportal.link:8080/live/larry/larry/9465.ts
+#EXTINF:-1,PT: JIM JAM
+http://clientportal.link:8080/live/larry/larry/9491.ts
+#EXTINF:-1,PT: GLOBO PORTUGAL
+http://clientportal.link:8080/live/larry/larry/9471.ts
+#EXTINF:-1,PT: FUEL TV
+http://clientportal.link:8080/live/larry/larry/9484.ts
+#EXTINF:-1,PT: FOOD NETWORK
+http://clientportal.link:8080/live/larry/larry/9494.ts
+#EXTINF:-1,PT: FASHION HD
+http://clientportal.link:8080/live/larry/larry/9495.ts
+#EXTINF:-1,PT: EURONEWS
+http://clientportal.link:8080/live/larry/larry/9478.ts
+#EXTINF:-1,PT: CNN
+http://clientportal.link:8080/live/larry/larry/9477.ts
+#EXTINF:-1,PT: CNBC
+http://clientportal.link:8080/live/larry/larry/9476.ts
+#EXTINF:-1,PT: CAPELA DE FATIMA
+http://clientportal.link:8080/live/larry/larry/9493.ts
+#EXTINF:-1,PT: CAÃ‡AVISION HD
+http://clientportal.link:8080/live/larry/larry/9492.ts
+#EXTINF:-1,PT: BBC ENTERTAINMENT
+http://clientportal.link:8080/live/larry/larry/9488.ts
+#EXTINF:-1,PT: BABY TV
+http://clientportal.link:8080/live/larry/larry/9490.ts
+#EXTINF:-1,PT: ARTV Parlamento
+http://clientportal.link:8080/live/larry/larry/9475.ts
+#EXTINF:-1,PT: Plus TVI
+http://clientportal.link:8080/live/larry/larry/5537.ts
+#EXTINF:-1,PT: TPA
+http://clientportal.link:8080/live/larry/larry/3245.ts
+#EXTINF:-1,PT: Toros TV
+http://clientportal.link:8080/live/larry/larry/5555.ts
+#EXTINF:-1,PT: Nat Geo Wild
+http://clientportal.link:8080/live/larry/larry/5556.ts
+#EXTINF:-1,PT: Cartoon NetWork
+http://clientportal.link:8080/live/larry/larry/5554.ts
+#EXTINF:-1,PT: Panda Biggs
+http://clientportal.link:8080/live/larry/larry/5553.ts
+#EXTINF:-1,PT: Abola TV
+http://clientportal.link:8080/live/larry/larry/5540.ts
+#EXTINF:-1,PT: Nat Geographic Channel
+http://clientportal.link:8080/live/larry/larry/3306.ts
+#EXTINF:-1,PT: Disney Channel
+http://clientportal.link:8080/live/larry/larry/3310.ts
+#EXTINF:-1,PT: TV Record
+http://clientportal.link:8080/live/larry/larry/3249.ts
+#EXTINF:-1,PT: Odisseia
+http://clientportal.link:8080/live/larry/larry/3230.ts
+#EXTINF:-1,PT: Niclelodeon
+http://clientportal.link:8080/live/larry/larry/3240.ts
+#EXTINF:-1,PT: Discovery ShowCase
+http://clientportal.link:8080/live/larry/larry/3253.ts
+#EXTINF:-1,PT: Economico TV
+http://clientportal.link:8080/live/larry/larry/3256.ts
+#EXTINF:-1,PT: Disney Junior
+http://clientportal.link:8080/live/larry/larry/3258.ts
+#EXTINF:-1,PT: Discovery HD
+http://clientportal.link:8080/live/larry/larry/3247.ts
+#EXTINF:-1,PT: A&E
+http://clientportal.link:8080/live/larry/larry/3259.ts
+#EXTINF:-1,PT: Cancao Nova
+http://clientportal.link:8080/live/larry/larry/3237.ts
+#EXTINF:-1,PT: CANAL PANDA
+http://clientportal.link:8080/live/larry/larry/3239.ts
+#EXTINF:-1,PT: Canal Historia HD
+http://clientportal.link:8080/live/larry/larry/3238.ts
+#EXTINF:-1,PT: 24 Kitchen
+http://clientportal.link:8080/live/larry/larry/3243.ts
+#EXTINF:-1,PT: AFRO MUSIC HD
+http://clientportal.link:8080/live/larry/larry/3250.ts
+#EXTINF:-1,PT: MCM TOP
+http://clientportal.link:8080/live/larry/larry/9499.ts
+#EXTINF:-1,PT: MTV PORTUGAL
+http://clientportal.link:8080/live/larry/larry/9498.ts
+#EXTINF:-1,PT: VeVo 1 HD
+http://clientportal.link:8080/live/larry/larry/3218.ts
+#EXTINF:-1,PT: VeVo 2 HD
+http://clientportal.link:8080/live/larry/larry/3219.ts
+#EXTINF:-1,PT: VeVo 3 HD
+http://clientportal.link:8080/live/larry/larry/3220.ts
+#EXTINF:-1,PT: VH1
+http://clientportal.link:8080/live/larry/larry/9503.ts
+#EXTINF:-1,PT: VH1 HD
+http://clientportal.link:8080/live/larry/larry/9501.ts
+#EXTINF:-1,PT: NBA HD
+http://clientportal.link:8080/live/larry/larry/9486.ts
+#EXTINF:-1,PT: Motors TV
+http://clientportal.link:8080/live/larry/larry/3252.ts
+#EXTINF:-1,PT: MOTORVISION HD
+http://clientportal.link:8080/live/larry/larry/9485.ts
+#EXTINF:-1,PT: Sporting TV HD
+http://clientportal.link:8080/live/larry/larry/3305.ts
+#EXTINF:-1,PT: EUROSPORT NEWS
+http://clientportal.link:8080/live/larry/larry/9483.ts
+#EXTINF:-1,PT: EuroSport 1 HD/SD
+http://clientportal.link:8080/live/larry/larry/3234.ts
+#EXTINF:-1,PT: EUROSPORT 2
+http://clientportal.link:8080/live/larry/larry/9482.ts
+#EXTINF:-1,PT: BARÃ‡A TV
+http://clientportal.link:8080/live/larry/larry/9479.ts
+#EXTINF:-1,PT: CHELSEA TV HD
+http://clientportal.link:8080/live/larry/larry/9480.ts
+#EXTINF:-1,PT: MUTV
+http://clientportal.link:8080/live/larry/larry/9481.ts
+#EXTINF:-1,PT: PFC HD
+http://clientportal.link:8080/live/larry/larry/3248.ts
+#EXTINF:-1,PT: Porto Canal
+http://clientportal.link:8080/live/larry/larry/5538.ts
+#EXTINF:-1,PT: Real Madrid TV HD
+http://clientportal.link:8080/live/larry/larry/5552.ts
+#EXTINF:-1,PT: BTV 1 HD
+http://clientportal.link:8080/live/larry/larry/5541.ts
+#EXTINF:-1,PT: Benfica TV 1 Full HD
+http://clientportal.link:8080/live/larry/larry/3308.ts
+#EXTINF:-1,PT: Benfica TV 2 HD
+http://clientportal.link:8080/live/larry/larry/3309.ts
+#EXTINF:-1,PT: SportTV 1 HD/SD
+http://clientportal.link:8080/live/larry/larry/3221.ts
+#EXTINF:-1,PT: SportTV 2 HD/SD
+http://clientportal.link:8080/live/larry/larry/3222.ts
+#EXTINF:-1,PT: SportTV 3
+http://clientportal.link:8080/live/larry/larry/3223.ts
+#EXTINF:-1,PT: SportTV 4 HD/SD
+http://clientportal.link:8080/live/larry/larry/3224.ts
+#EXTINF:-1,PT: SportTV 5
+http://clientportal.link:8080/live/larry/larry/3225.ts
